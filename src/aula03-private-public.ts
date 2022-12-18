@@ -1,3 +1,8 @@
+/**
+ * public é acessivel em qualquer lugar
+ * private é acessivel somente na classe criada
+ */
+
 export class Employee {
   constructor(
     public readonly string: string,
